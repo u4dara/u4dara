@@ -20,6 +20,8 @@
 
 ✔ A **Software Engineering Graduate** from the **National Institute of Business Management (NIBM)**, Sri Lanka.
 
+✔ I love learning **Computer Science** and exploring new technologies.
+
 ✔ Currently learning `TypeScript` and `Next.js` to improve my full-stack development skills.
 
 ✔ I occasionally write blog articles, check them out on **Medium**
@@ -99,5 +101,5 @@
 
 </br>
 <p align="center">
-Last Updated on 01/10/2025
+Last Updated on 03/10/2025
 </p>
