@@ -90,10 +90,10 @@
 
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/><b>Git Stats</b>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4dara&langs_count=20&theme=highcontrast&layout=compact" />
 </a>
-</br>
+</br> -->
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
