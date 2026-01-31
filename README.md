@@ -89,8 +89,8 @@
 </br>
 
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/><b>Git Stats</b>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/><b>Git Stats</b>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4dara&langs_count=20&theme=highcontrast&layout=compact" />
 </a>
 </br> -->
